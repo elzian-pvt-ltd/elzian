@@ -29,11 +29,11 @@ class App extends Component {
             {/* <Route path="/register" component={Register} />
             <Route path="/login" component={LoginForm} />
             <Route path="/logout" component={Logout} /> */}
-            <Route path="/notFound" component={NotFound} />
-            <Route path="/home" component={Home} />
+            <Route path="notFound" component={NotFound} />
+            <Route path="home" component={Home} />
             {/* <ProtectedRoute exact path="/newproject" component={NewProject} />
             <ProtectedRoute exact path="/myprojects" component={MyProjects} /> */}
-            <Redirect exact from="/" to="/home" />
+            <Redirect exact from="" to="home" />
             {/* <Redirect to="notFound" /> */}
           </Switch>
         </main>

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/elzian/static/css/main.c2b0ea91.chunk.css",
-    "main.js": "/elzian/static/js/main.b8bb1f37.chunk.js",
-    "main.js.map": "/elzian/static/js/main.b8bb1f37.chunk.js.map",
+    "main.js": "/elzian/static/js/main.47e4e5d2.chunk.js",
+    "main.js.map": "/elzian/static/js/main.47e4e5d2.chunk.js.map",
     "runtime-main.js": "/elzian/static/js/runtime-main.7f41751f.js",
     "runtime-main.js.map": "/elzian/static/js/runtime-main.7f41751f.js.map",
     "static/css/2.29b224f4.chunk.css": "/elzian/static/css/2.29b224f4.chunk.css",
     "static/js/2.0e328c10.chunk.js": "/elzian/static/js/2.0e328c10.chunk.js",
     "static/js/2.0e328c10.chunk.js.map": "/elzian/static/js/2.0e328c10.chunk.js.map",
     "index.html": "/elzian/index.html",
-    "precache-manifest.c0942f0e22edc2858a6bb29174557205.js": "/elzian/precache-manifest.c0942f0e22edc2858a6bb29174557205.js",
+    "precache-manifest.8af70f4232f01982d814a9d2d4b3e357.js": "/elzian/precache-manifest.8af70f4232f01982d814a9d2d4b3e357.js",
     "service-worker.js": "/elzian/service-worker.js",
     "static/css/2.29b224f4.chunk.css.map": "/elzian/static/css/2.29b224f4.chunk.css.map",
     "static/css/main.c2b0ea91.chunk.css.map": "/elzian/static/css/main.c2b0ea91.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.29b224f4.chunk.css",
     "static/js/2.0e328c10.chunk.js",
     "static/css/main.c2b0ea91.chunk.css",
-    "static/js/main.b8bb1f37.chunk.js"
+    "static/js/main.47e4e5d2.chunk.js"
   ]
 }

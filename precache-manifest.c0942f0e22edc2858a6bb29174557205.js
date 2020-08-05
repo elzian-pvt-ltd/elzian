@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e467ab2179015a1d2286100488b5a5b",
+    "revision": "522d39ed35e02fca0a7e2029b63b6a63",
     "url": "/elzian/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elzian/static/css/2.29b224f4.chunk.css"
   },
   {
-    "revision": "15e69887cdee3f5b07fb",
+    "revision": "bbd353fc8974ae0a6d95",
     "url": "/elzian/static/css/main.c2b0ea91.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elzian/static/js/2.0e328c10.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15e69887cdee3f5b07fb",
-    "url": "/elzian/static/js/main.47e4e5d2.chunk.js"
+    "revision": "bbd353fc8974ae0a6d95",
+    "url": "/elzian/static/js/main.b8bb1f37.chunk.js"
   },
   {
     "revision": "957d1007833680708aa9",
